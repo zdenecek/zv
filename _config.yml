@@ -18,5 +18,3 @@ defaults:
 # logo: "/assets/images/logo.png"
 # search_enabled: false
 
-include:
- - "_assets/js"
