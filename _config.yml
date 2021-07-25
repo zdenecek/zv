@@ -1,5 +1,22 @@
+title: Verča-Zdeněk
+
+
+
 remote_theme: pmarsceill/just-the-docs
 
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+defaults:
+  -
+    scope:
+      path: "system"
+    values:
+      layout: "page"
+
+# logo: "/assets/images/logo.png"
+# search_enabled: false
+
+include:
+ - "_assets/js"
