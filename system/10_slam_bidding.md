@@ -12,9 +12,9 @@ nav_order: 10
 
 ## Control-bidy ("Cue-bidy") 
 Control-bidy dražíme odspodu.    
-Control bidy začínají na třetím stupni neseriózním pokusem. Nižší hlášky nemohou být control-bidy, game before slam.
+Control-bidy začínají na třetím stupni neseriózním pokusem. Nižší hlášky nemohou být control-bidy podle principu Game before slam.
 
-V jakémkoliv sledu, kde jsme v gf a explicitně jsme sfitovali drahou barvu:
+V jakémkoliv sledu, kde jsme v gf a explicitně jsme sfitovali drahou barvu, dražíme seriózní control-bidy/neseriózní pokus:
 
 |     | ♥ fit               | ♠ fit
 | 3♠  |	neseriózní pokus    | ---
@@ -72,8 +72,8 @@ Skok na pátý stupeň v barvě poté, co jsme si ukázali fit, případně tak�
 Dotaz na esa a dámu trumfovou kromě esa v dané barvě.
 
 krok | klíčové karty
-1    | 1/4	sbsq. další hláška je dotaz na Q (mám/nemám) 
-2    | 0/3	sbsq. další hláška je dotaz na Q (mám/nemám) 
+1    | 0/3	sbsq. další hláška je dotaz na Q (mám/nemám) 
+2    | 1/4	sbsq. další hláška je dotaz na Q (mám/nemám) 
 3    | 2 w/o Q
 4    | 2 w/Q
 
@@ -121,12 +121,12 @@ Pokud zahajitel nadraží prvním krokem minimum kontrol a má jich ještě mén
 ## Obrana proti zásahům na krokové dotazovací hlášky
 
 Pass
-: 1. krok
+: 1\. krok
 
 X nebo XX
-: 2. krok
+: 2\. krok
 
 další hlášky
-: 3. krok, atd.
+: 3\. krok, atd.
 
 
