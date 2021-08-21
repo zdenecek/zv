@@ -27,6 +27,9 @@ Control-bidy na úrovni 4NT a výše slibují kontrolu prvního kola (Eso nebo �
 ### Last Train
 Used when there's not much room for control-bids, i.e. when a control bid is skipped, leaving one call between the trumps and the control bid used. The in-between call is the Last Train - promises a control in the suit that partner has skipped, but doesn’t necessarily promise a control in the Last Train suit.   
 
+### Non-cuebidy
+Po zahájení blokem, nová barva neukazuje kontrolu, ale chce kontrolu od partnera, partner bez kontroly opakuje svou barvu.
+
 ## Splintery
 SPL ukazuje 4+ listou podporu a asi 14-16 bodů (11-13 HCP). 
 
