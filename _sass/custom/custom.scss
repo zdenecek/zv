@@ -34,6 +34,16 @@ span.spades {
     margin-bottom: 0;
   }
 
+  //reserved for sequences
+  .maincontent h4,h5,h6 {
+    font-size: 16px;
+    border-right: medium solid #33339B;
+  }
+
+  .maincontent dl {
+    border-right: medium dashed #557ed1;
+  }
+
   ul, ol {
     margin-top: 0;
   }
