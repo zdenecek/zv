@@ -6,19 +6,28 @@ has_children: false
 
 # Zásahy
 
-První stupeň normálně.  
-Druhý stupeň solidní.  
+## Vs. 1NT
+
+2♣
+: majors
+
+2♦
+: one major
+
+2M
+: 5+M 4+m
+
+3x
+: natural
 
 
-## Dvoubarevné zásahy
-
-
+## 2-suiters
 
 (1♦)-2♦
 : 5+♠ 5+♥/♣, constructive
 
 (1M)-2M
-: 5+oM 5+♣/♦, constructive
+: Michaels cuebid, 5+oM 5+♣/♦, constructive
 
 (1x)-2NT
 : 5+ 5+ in lowest unbids, constructive

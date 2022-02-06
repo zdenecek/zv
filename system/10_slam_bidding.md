@@ -50,7 +50,6 @@ Dotaz na 5KC, hláška kickbacku se prohazuje s control-bidem (kontrola se uká�
 4NT
 : dotaz na esa pro piky 
 
-
 krok        | klíčové karty
 1           | 1/4	sbsq. další hláška je dotaz na Q (mám/nemám) 
 2           | 0/3	sbsq. další hláška je dotaz na Q (mám/nemám) 
@@ -59,6 +58,10 @@ krok        | klíčové karty
 5 (a vyšší) | 3 KC + šikena v barvě
 
 Vyhýbáme se dotazu na esa s chybějící kontrolou v barvě, raději pokračujte v control-biddování.
+
+
+## 5NT RKC1430
+Když přeskočíme Kickback, můžeme se na esa zeptat přes 5NT bez skoku. Odpovědi stejně jako na Kickback.
 
 ## Doroszewicz
 Po dotazu na esa se tazatel může zeptat na figury v barvě, a to dražbou oné barvy. Odpovídající odpoví krokově:
@@ -101,14 +104,10 @@ krok | klíčové karty
 : Exclusion
 
 
-## 5NT RKC1430
-Když přeskočíme Kickback, můžeme se na esa zeptat přes 5NT bez skoku. Odpovědi stejně jako na Kickback.
-
-
 ## CONFI, SUPERCONFI
-Confi se draží v případech, kdy máme výzvu do slemu. Superconfi použiváme, když chceme do slemu forcovat. (Obvykle se místo (super)confi draží kvantitativní výzva/gerber)  
-Primárně je to dotaz na kontroly, odpovědi se liší podle bodového určení zahajitele.
-
+Controls & Fit  
+Confi se draží v případech, kdy máme výzvu do slemu. Superconfi použiváme, když chceme do slemu forcovat.
+Primárně je confi dotaz na kontroly, odpovědi se liší podle bodového určení zahajitele.
 
 Body zahajitele   | 1. krok     | 2. krok  | 3. krok | atd.
 14-16/15-17 (1NT) | 4 nebo méně | 5        | 6
