@@ -106,7 +106,7 @@ krok | klíčové karty
 
 ## CONFI, SUPERCONFI
 Controls & Fit  
-Confi se draží v případech, kdy máme výzvu do slemu. Superconfi použiváme, když chceme do slemu forcovat.
+Confi se draží v případech, kdy máme výzvu do slamu. Superconfi použiváme, když chceme do slamu forcovat.
 Primárně je confi dotaz na kontroly, odpovědi se liší podle bodového určení zahajitele.
 
 Body zahajitele   | 1. krok     | 2. krok  | 3. krok | atd.
