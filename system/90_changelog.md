@@ -4,7 +4,7 @@ nav_order: 90
 ---
 
 
-> 7\. 2\. 2022: 
+> 7\. 2\. 2022  
 
 - Nový, podle mě čitelnější dohody.
 - Odstraněno mnoho zbytečně specifických dohod, které jsme stejně nedodržovali
